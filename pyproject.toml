@@ -1,0 +1,87 @@
+[tool.poetry]
+name = "Ipre"
+version = "0.1.0"
+description = "Investigación en pregrado (Ipre) de deep learning aplicado a la predicción de resultados deportivos"
+authors = [
+    "Alfredo Enrione",
+    "Andrés Bravo",
+    "Diego Costa",
+    "Diego Fernández",
+    "Gonzalo Fuentes",
+    "Gustavo Fernandez",
+    "Manu Cifuentes",
+    "Moisés Barraza",
+    "Nicolás Estévez",
+    "Rodrigo Toro",
+]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiohttp = "^3.9.3"
+asyncio = "^3.4.3"
+requests = "2.31.0"
+selenium = "4.16.0"
+webdriver-manager = "4.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+select = ["A", "B", "C", "E", "F", "W", "I"]
+ignore = [
+    "B904",
+    "B008",
+    "F841",
+    "F401",
+    "E302",
+    "E305",
+    "F403",
+    "F405",
+    "I001",
+]
+
+exclude = [
+    ".bzr",
+    ".direnv",
+    ".eggs",
+    ".git",
+    ".hg",
+    ".mypy_cache",
+    ".nox",
+    ".pants.d",
+    ".ruff_cache",
+    ".svn",
+    ".tox",
+    ".venv",
+    "__pypackages__",
+    "_build",
+    "buck-out",
+    "build",
+    "dist",
+    "node_modules",
+    "venv",
+    "configs",
+    ".github",
+    ".githooks",
+    ".vscode",
+]
+
+
+[tool.ruff.pydocstyle]
+convention = "google"
+
+[tool.black]
+line-length = 99
+target-version = ['py310']
+preview = true
+
+[tool.ruff.mccabe]
+max-complexity = 10

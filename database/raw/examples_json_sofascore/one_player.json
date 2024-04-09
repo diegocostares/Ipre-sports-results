@@ -1,0 +1,115 @@
+{
+    "player": {
+        "name": "Vicente Pizarro",
+        "firstName": "",
+        "lastName": "",
+        "slug": "vicente-pizarro",
+        "shortName": "V. Pizarro",
+        "team": {
+            "name": "Colo Colo",
+            "slug": "colo-colo",
+            "shortName": "Colo-Colo",
+            "gender": "M",
+            "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+            },
+            "tournament": {
+                "name": "Primera Division",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Division",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 18910,
+                    "id": 11653,
+                    "country": {},
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "id": 64475
+            },
+            "primaryUniqueTournament": {
+                "name": "Primera Division",
+                "slug": "primera-division",
+                "primaryColorHex": "#ed1b2d",
+                "secondaryColorHex": "#006bc4",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "userCount": 18910,
+                "id": 11653,
+                "country": {},
+                "displayInverseHomeAwayTeams": false
+            },
+            "userCount": 33425,
+            "nameCode": "CC",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "id": 3155,
+            "country": {
+                "alpha2": "CL",
+                "name": "Chile"
+            },
+            "teamColors": {
+                "primary": "#ffffff",
+                "secondary": "#ffffff",
+                "text": "#ffffff"
+            }
+        },
+        "position": "M",
+        "jerseyNumber": "34",
+        "height": 172,
+        "preferredFoot": "Left",
+        "userCount": 404,
+        "id": 986754,
+        "country": {
+            "alpha2": "CL",
+            "name": "Chile"
+        },
+        "shirtNumber": 34,
+        "dateOfBirthTimestamp": 1036454400,
+        "contractUntilTimestamp": 1735603200,
+        "proposedMarketValue": 2100000,
+        "proposedMarketValueRaw": {
+            "value": 2100000,
+            "currency": "EUR"
+        }
+    }
+}

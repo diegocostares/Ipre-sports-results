@@ -1,0 +1,1361 @@
+{
+    "events": [
+        {
+            "tournament": {
+                "name": "Primera Divisi\u00f3n",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Divisi\u00f3n",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 20737,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 11653,
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "isLive": false,
+                "id": 64475
+            },
+            "season": {
+                "name": "Primera Divisi\u00f3n 2023",
+                "year": "2023",
+                "editor": false,
+                "seasonCoverageInfo": {},
+                "id": 48017
+            },
+            "roundInfo": {
+                "round": 27
+            },
+            "customId": "dnbsnnb",
+            "status": {
+                "code": 60,
+                "description": "Postponed",
+                "type": "postponed"
+            },
+            "homeTeam": {
+                "name": "Uni\u00f3n Espa\u00f1ola",
+                "slug": "union-espanola",
+                "shortName": "Uni\u00f3n Espa\u00f1ola",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 6368,
+                "nameCode": "ESP",
+                "national": false,
+                "type": 0,
+                "id": 3153,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffff00",
+                    "text": "#ffff00"
+                }
+            },
+            "awayTeam": {
+                "name": "O'Higgins",
+                "slug": "ohiggins",
+                "shortName": "O'Higgins",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 4444,
+                "nameCode": "OHF",
+                "national": false,
+                "type": 0,
+                "id": 3163,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#00ccff",
+                    "secondary": "#00ccff",
+                    "text": "#00ccff"
+                }
+            },
+            "homeScore": {},
+            "awayScore": {},
+            "time": {},
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type"
+                ],
+                "changeTimestamp": 1698826339
+            },
+            "hasGlobalHighlights": false,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 10961784,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1699486200,
+            "slug": "ohiggins-union-espanola",
+            "finalResultOnly": false,
+            "isEditor": false
+        },
+        {
+            "tournament": {
+                "name": "Primera Divisi\u00f3n",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Divisi\u00f3n",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 20737,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 11653,
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "isLive": false,
+                "id": 64475
+            },
+            "season": {
+                "name": "Primera Divisi\u00f3n 2023",
+                "year": "2023",
+                "editor": false,
+                "seasonCoverageInfo": {},
+                "id": 48017
+            },
+            "roundInfo": {
+                "round": 27
+            },
+            "customId": "bnbslnb",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 2,
+            "homeTeam": {
+                "name": "Universidad Cat\u00f3lica",
+                "slug": "universidad-catolica",
+                "shortName": "Universidad Cat\u00f3lica",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 16220,
+                "nameCode": "UC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 3151,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Universidad de Chile",
+                "slug": "universidad-de-chile",
+                "shortName": "Universidad de Chile",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 13981,
+                "nameCode": "UCH",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 3161,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000099",
+                    "secondary": "#000099",
+                    "text": "#000099"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0644\u064a\u0648\u0646\u064a\u0641\u064a\u0631\u0633\u064a\u062f\u0627\u062f \u062f\u064a \u0634\u064a\u0644\u064a"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "period2": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 2,
+                "period2": 1,
+                "normaltime": 3
+            },
+            "time": {
+                "injuryTime1": 3,
+                "injuryTime2": 8,
+                "currentPeriodStartTimestamp": 1699732658
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type",
+                    "homeScore.period2",
+                    "homeScore.normaltime",
+                    "awayScore.period2",
+                    "awayScore.normaltime",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1699732661
+            },
+            "hasGlobalHighlights": false,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 10961779,
+            "homeRedCards": 1,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1699725600,
+            "slug": "universidad-de-chile-universidad-catolica",
+            "finalResultOnly": false,
+            "isEditor": false
+        },
+        {
+            "tournament": {
+                "name": "Primera Divisi\u00f3n",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Divisi\u00f3n",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 20737,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 11653,
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "isLive": false,
+                "id": 64475
+            },
+            "season": {
+                "name": "Primera Divisi\u00f3n 2023",
+                "year": "2023",
+                "editor": false,
+                "seasonCoverageInfo": {},
+                "id": 48017
+            },
+            "roundInfo": {
+                "round": 27
+            },
+            "customId": "mnbsrnb",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 2,
+            "homeTeam": {
+                "name": "Cobresal",
+                "slug": "cobresal",
+                "shortName": "Cobresal",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 7346,
+                "nameCode": "COB",
+                "national": false,
+                "type": 0,
+                "id": 3167,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff9900",
+                    "text": "#ff9900"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0648\u0628\u0631\u064a\u0633\u0627\u0644"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "awayTeam": {
+                "name": "Audax Italiano",
+                "slug": "audax-italiano",
+                "shortName": "Audax Italiano",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 7643,
+                "nameCode": "AUD",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 3162,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#00cc99",
+                    "secondary": "#00cc99",
+                    "text": "#00cc99"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0623\u0648\u062f\u0627\u0643\u0633 \u0625\u064a\u062a\u0627\u0644\u064a\u0627\u0646\u0648"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "homeScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 1,
+                "period2": 2,
+                "normaltime": 3
+            },
+            "awayScore": {
+                "current": 4,
+                "display": 4,
+                "period1": 2,
+                "period2": 2,
+                "normaltime": 4
+            },
+            "time": {
+                "injuryTime1": 3,
+                "injuryTime2": 8,
+                "currentPeriodStartTimestamp": 1699745715
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type",
+                    "homeScore.period2",
+                    "homeScore.normaltime",
+                    "awayScore.period2",
+                    "awayScore.normaltime",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1699745717
+            },
+            "hasGlobalHighlights": false,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 10961782,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1699738200,
+            "slug": "cobresal-audax-italiano",
+            "finalResultOnly": false,
+            "isEditor": false
+        },
+        {
+            "tournament": {
+                "name": "Primera Divisi\u00f3n",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Divisi\u00f3n",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 20737,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 11653,
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "isLive": false,
+                "id": 64475
+            },
+            "season": {
+                "name": "Primera Divisi\u00f3n 2023",
+                "year": "2023",
+                "editor": false,
+                "seasonCoverageInfo": {},
+                "id": 48017
+            },
+            "roundInfo": {
+                "round": 27
+            },
+            "customId": "hnbsEPc",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 3,
+            "homeTeam": {
+                "name": "\u00d1ublense",
+                "slug": "nublense",
+                "shortName": "\u00d1ublense",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 9876,
+                "nameCode": "NUB",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 7029,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Palestino",
+                "slug": "palestino",
+                "shortName": "Palestino",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 9106,
+                "nameCode": "PAL",
+                "national": false,
+                "type": 0,
+                "id": 3157,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "period2": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "period2": 1,
+                "normaltime": 1
+            },
+            "time": {
+                "injuryTime1": 3,
+                "injuryTime2": 7,
+                "currentPeriodStartTimestamp": 1699754592
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "homeScore.normaltime",
+                    "awayScore.period2",
+                    "awayScore.normaltime"
+                ],
+                "changeTimestamp": 1699754703
+            },
+            "hasGlobalHighlights": false,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 10961783,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1699747200,
+            "slug": "nublense-palestino",
+            "finalResultOnly": false,
+            "isEditor": false
+        },
+        {
+            "tournament": {
+                "name": "Primera Divisi\u00f3n",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Divisi\u00f3n",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 20737,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 11653,
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "isLive": false,
+                "id": 64475
+            },
+            "season": {
+                "name": "Primera Divisi\u00f3n 2023",
+                "year": "2023",
+                "editor": false,
+                "seasonCoverageInfo": {},
+                "id": 48017
+            },
+            "roundInfo": {
+                "round": 27
+            },
+            "customId": "onbsiPK",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 3,
+            "homeTeam": {
+                "name": "Deportes Magallanes",
+                "slug": "deportes-magallanes",
+                "shortName": "Magallanes",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 7440,
+                "nameCode": "MAG",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 89508,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#009de4",
+                    "secondary": "#091e35",
+                    "text": "#091e35"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u062f\u064a\u0628\u0648\u0631\u062a\u064a\u0633 \u0645\u0627\u062c\u0644\u0627\u0646"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "awayTeam": {
+                "name": "Huachipato",
+                "slug": "huachipato",
+                "shortName": "Huachipato",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 6644,
+                "nameCode": "HUA",
+                "national": false,
+                "type": 0,
+                "id": 3164,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000066",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0647\u0648\u0627\u062a\u0634\u064a\u0628\u0627\u062a\u0648"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "period2": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0,
+                "normaltime": 1
+            },
+            "time": {
+                "injuryTime1": 6,
+                "injuryTime2": 7,
+                "currentPeriodStartTimestamp": 1699810334
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type",
+                    "homeScore.period2",
+                    "homeScore.normaltime",
+                    "awayScore.period2",
+                    "awayScore.normaltime",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1699810337
+            },
+            "hasGlobalHighlights": false,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 10961786,
+            "awayRedCards": 1,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1699803000,
+            "slug": "deportes-magallanes-huachipato",
+            "finalResultOnly": false,
+            "isEditor": false
+        },
+        {
+            "tournament": {
+                "name": "Primera Divisi\u00f3n",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Divisi\u00f3n",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 20737,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 11653,
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "isLive": false,
+                "id": 64475
+            },
+            "season": {
+                "name": "Primera Divisi\u00f3n 2023",
+                "year": "2023",
+                "editor": false,
+                "seasonCoverageInfo": {},
+                "id": 48017
+            },
+            "roundInfo": {
+                "round": 27
+            },
+            "customId": "HacsVwn",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 3,
+            "homeTeam": {
+                "name": "Everton de Vi\u00f1a del Mar",
+                "slug": "everton-de-vina-del-mar",
+                "shortName": "Everton",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 6098,
+                "nameCode": "EVT",
+                "national": false,
+                "type": 0,
+                "id": 5032,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000088",
+                    "secondary": "#ffff00",
+                    "text": "#ffff00"
+                }
+            },
+            "awayTeam": {
+                "name": "Curic\u00f3 Unido",
+                "slug": "curico-unido",
+                "shortName": "Curic\u00f3 Unido",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 6664,
+                "nameCode": "CUR",
+                "national": false,
+                "type": 0,
+                "id": 33595,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#e60004",
+                    "secondary": "#222226",
+                    "text": "#222226"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "period2": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0,
+                "normaltime": 1
+            },
+            "time": {
+                "injuryTime1": 3,
+                "injuryTime2": 9,
+                "currentPeriodStartTimestamp": 1699819299
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type",
+                    "homeScore.period2",
+                    "homeScore.normaltime",
+                    "awayScore.period2",
+                    "awayScore.normaltime",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1699819301
+            },
+            "hasGlobalHighlights": false,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 10961785,
+            "awayRedCards": 1,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1699812000,
+            "slug": "curico-unido-everton-de-vina-del-mar",
+            "finalResultOnly": false,
+            "isEditor": false
+        },
+        {
+            "tournament": {
+                "name": "Primera Divisi\u00f3n",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Divisi\u00f3n",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 20737,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 11653,
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "isLive": false,
+                "id": 64475
+            },
+            "season": {
+                "name": "Primera Divisi\u00f3n 2023",
+                "year": "2023",
+                "editor": false,
+                "seasonCoverageInfo": {},
+                "id": 48017
+            },
+            "roundInfo": {
+                "round": 27
+            },
+            "customId": "fnbsRou",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 1,
+            "homeTeam": {
+                "name": "Colo Colo",
+                "slug": "colo-colo",
+                "shortName": "Colo-Colo",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 40409,
+                "nameCode": "CC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 3155,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Uni\u00f3n La Calera",
+                "slug": "union-la-calera",
+                "shortName": "Uni\u00f3n La Calera",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 5840,
+                "nameCode": "ULC",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 48242,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "homeScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 0,
+                "period2": 2,
+                "normaltime": 2
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0,
+                "normaltime": 0
+            },
+            "time": {
+                "injuryTime1": 3,
+                "injuryTime2": 7,
+                "currentPeriodStartTimestamp": 1699828419
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "homeScore.normaltime",
+                    "awayScore.period2",
+                    "awayScore.normaltime"
+                ],
+                "changeTimestamp": 1699828674
+            },
+            "hasGlobalHighlights": false,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 10961781,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1699821000,
+            "slug": "union-la-calera-colo-colo",
+            "finalResultOnly": false,
+            "isEditor": false
+        },
+        {
+            "tournament": {
+                "name": "Primera Divisi\u00f3n",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Divisi\u00f3n",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 20737,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 11653,
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "isLive": false,
+                "id": 64475
+            },
+            "season": {
+                "name": "Primera Divisi\u00f3n 2023",
+                "year": "2023",
+                "editor": false,
+                "seasonCoverageInfo": {},
+                "id": 48017
+            },
+            "roundInfo": {
+                "round": 27
+            },
+            "customId": "pnbsgPK",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 1,
+            "homeTeam": {
+                "name": "Coquimbo Unido",
+                "slug": "coquimbo-unido",
+                "shortName": "Coquimbo Unido",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 5249,
+                "nameCode": "COQ",
+                "national": false,
+                "type": 0,
+                "id": 3165,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffe700",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                },
+                "fieldTranslations": {
+                    "nameTranslation": {
+                        "ar": "\u0643\u0648\u0643\u0648\u064a\u0645\u0628\u0648 \u064a\u0648\u0646\u064a\u062f\u0648"
+                    },
+                    "shortNameTranslation": {}
+                }
+            },
+            "awayTeam": {
+                "name": "Deportes Copiap\u00f3",
+                "slug": "deportes-copiapo",
+                "shortName": "Deportes Copiap\u00f3",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 3518,
+                "nameCode": "COP",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 89506,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#fe0000",
+                    "secondary": "#f0f0f0",
+                    "text": "#f0f0f0"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "period2": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0,
+                "normaltime": 0
+            },
+            "time": {
+                "injuryTime1": 3,
+                "injuryTime2": 8,
+                "currentPeriodStartTimestamp": 1699837167
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type",
+                    "homeScore.period2",
+                    "homeScore.normaltime",
+                    "awayScore.period2",
+                    "awayScore.normaltime",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1699837169
+            },
+            "hasGlobalHighlights": false,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 10961780,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1699830000,
+            "slug": "deportes-copiapo-coquimbo-unido",
+            "finalResultOnly": false,
+            "isEditor": false
+        },
+        {
+            "tournament": {
+                "name": "Primera Divisi\u00f3n",
+                "slug": "primera-division",
+                "category": {
+                    "name": "Chile",
+                    "slug": "chile",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 49,
+                    "flag": "chile",
+                    "alpha2": "CL"
+                },
+                "uniqueTournament": {
+                    "name": "Primera Divisi\u00f3n",
+                    "slug": "primera-division",
+                    "primaryColorHex": "#ed1b2d",
+                    "secondaryColorHex": "#006bc4",
+                    "category": {
+                        "name": "Chile",
+                        "slug": "chile",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 49,
+                        "flag": "chile",
+                        "alpha2": "CL"
+                    },
+                    "userCount": 20737,
+                    "crowdsourcingEnabled": false,
+                    "hasPerformanceGraphFeature": true,
+                    "id": 11653,
+                    "hasEventPlayerStatistics": true,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 243,
+                "isLive": false,
+                "id": 64475
+            },
+            "season": {
+                "name": "Primera Divisi\u00f3n 2023",
+                "year": "2023",
+                "editor": false,
+                "seasonCoverageInfo": {},
+                "id": 48017
+            },
+            "roundInfo": {
+                "round": 27
+            },
+            "customId": "dnbsnnb",
+            "status": {
+                "code": 100,
+                "description": "Ended",
+                "type": "finished"
+            },
+            "winnerCode": 3,
+            "homeTeam": {
+                "name": "Uni\u00f3n Espa\u00f1ola",
+                "slug": "union-espanola",
+                "shortName": "Uni\u00f3n Espa\u00f1ola",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 6368,
+                "nameCode": "ESP",
+                "national": false,
+                "type": 0,
+                "id": 3153,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffff00",
+                    "text": "#ffff00"
+                }
+            },
+            "awayTeam": {
+                "name": "O'Higgins",
+                "slug": "ohiggins",
+                "shortName": "O'Higgins",
+                "gender": "M",
+                "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                },
+                "userCount": 4444,
+                "nameCode": "OHF",
+                "national": false,
+                "type": 0,
+                "id": 3163,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#00ccff",
+                    "secondary": "#00ccff",
+                    "text": "#00ccff"
+                }
+            },
+            "homeScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 1,
+                "period2": 2,
+                "normaltime": 3
+            },
+            "awayScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 2,
+                "period2": 1,
+                "normaltime": 3
+            },
+            "time": {
+                "injuryTime1": 3,
+                "injuryTime2": 6,
+                "currentPeriodStartTimestamp": 1699837056
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type",
+                    "homeScore.period2",
+                    "homeScore.normaltime",
+                    "awayScore.period2",
+                    "awayScore.normaltime",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1699837058
+            },
+            "hasGlobalHighlights": false,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "detailId": 1,
+            "crowdsourcingDataDisplayEnabled": false,
+            "id": 11794952,
+            "crowdsourcingEnabled": false,
+            "startTimestamp": 1699830000,
+            "slug": "ohiggins-union-espanola",
+            "finalResultOnly": false,
+            "isEditor": false
+        }
+    ],
+    "hasNextPage": false
+}

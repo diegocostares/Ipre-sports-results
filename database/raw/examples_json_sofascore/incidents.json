@@ -1,0 +1,464 @@
+{
+    "incidents": [
+        {
+            "text": "FT",
+            "homeScore": 0,
+            "awayScore": 2,
+            "isLive": false,
+            "time": 90,
+            "addedTime": 999,
+            "reversedPeriodTime": 1,
+            "incidentType": "period"
+        },
+        {
+            "length": 8,
+            "time": 90,
+            "addedTime": 0,
+            "reversedPeriodTime": 1,
+            "incidentType": "injuryTime"
+        },
+        {
+            "player": {
+                "name": "Michael Fuentes",
+                "firstName": "",
+                "lastName": "",
+                "slug": "michael-fuentes",
+                "shortName": "M. Fuentes",
+                "position": "F",
+                "userCount": 50,
+                "id": 912067
+            },
+            "playerName": "Michael Fuentes",
+            "reason": "Violent conduct",
+            "rescinded": false,
+            "id": 121045726,
+            "time": 85,
+            "isHome": true,
+            "incidentClass": "red",
+            "reversedPeriodTime": 6,
+            "incidentType": "card"
+        },
+        {
+            "playerIn": {
+                "name": "Nicol\u00e1s Crovetto",
+                "slug": "nicolas-crovetto",
+                "shortName": "N. Crovetto",
+                "position": "D",
+                "userCount": 8,
+                "id": 18635
+            },
+            "playerOut": {
+                "name": "Alfred Canales",
+                "slug": "alfred-canales",
+                "shortName": "A. Canales",
+                "position": "M",
+                "userCount": 79,
+                "id": 1016766
+            },
+            "id": 122258103,
+            "time": 83,
+            "isHome": false,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 8,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Manuel Vicuna",
+                "slug": "vicuna-manuel",
+                "shortName": "M. Vicu\u00f1a",
+                "position": "M",
+                "userCount": 14,
+                "id": 986650
+            },
+            "playerOut": {
+                "name": "Joaqu\u00edn Larrivey",
+                "slug": "joaquin-larrivey",
+                "shortName": "J. Larrivey",
+                "position": "F",
+                "userCount": 182,
+                "id": 28242
+            },
+            "injury": true,
+            "id": 122258102,
+            "time": 83,
+            "isHome": false,
+            "incidentClass": "injury",
+            "reversedPeriodTime": 8,
+            "incidentType": "substitution"
+        },
+        {
+            "player": {
+                "name": "Osvaldo Bosso",
+                "slug": "osvaldo-bosso",
+                "shortName": "O. Bosso",
+                "position": "D",
+                "userCount": 10,
+                "id": 819075
+            },
+            "playerName": "Osvaldo Bosso",
+            "reason": "Argument",
+            "rescinded": false,
+            "id": 121045721,
+            "time": 82,
+            "isHome": true,
+            "incidentClass": "yellow",
+            "reversedPeriodTime": 9,
+            "incidentType": "card"
+        },
+        {
+            "playerIn": {
+                "name": "Roberto Cereceda",
+                "slug": "roberto-cereceda",
+                "shortName": "R. Cereceda",
+                "position": "D",
+                "userCount": 8,
+                "id": 18289
+            },
+            "playerOut": {
+                "name": "Gabriel Hachen",
+                "slug": "gabriel-hachen",
+                "shortName": "G. Hachen",
+                "position": "M",
+                "userCount": 17,
+                "id": 250015
+            },
+            "id": 122258101,
+            "time": 82,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 9,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Carlos Villanueva",
+                "slug": "carlos-villanueva",
+                "shortName": "C. Villanueva",
+                "position": "M",
+                "userCount": 110,
+                "id": 18296
+            },
+            "playerOut": {
+                "name": "Crist\u00f3bal Jorquera",
+                "slug": "cristobal-jorquera",
+                "shortName": "C. Jorquera",
+                "position": "M",
+                "userCount": 30,
+                "id": 18346
+            },
+            "id": 122258090,
+            "time": 75,
+            "isHome": false,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 16,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Albert Acevedo",
+                "slug": "albert-acevedo",
+                "shortName": "A. Acevedo",
+                "position": "D",
+                "userCount": 7,
+                "id": 18300
+            },
+            "playerOut": {
+                "name": "Mat\u00edas V\u00e1squez",
+                "firstName": "V\u00e1squez",
+                "lastName": "",
+                "slug": "matias-vasquez",
+                "shortName": "M. V\u00e1squez",
+                "position": "D",
+                "userCount": 28,
+                "id": 1397593
+            },
+            "id": 122258091,
+            "time": 75,
+            "isHome": false,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 16,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Alessandro Riep",
+                "firstName": "",
+                "lastName": "",
+                "slug": "riep-alessandro",
+                "shortName": "A. Riep",
+                "position": "M",
+                "userCount": 3,
+                "id": 1127516
+            },
+            "playerOut": {
+                "name": "Gonzalo R\u00edos",
+                "firstName": "",
+                "lastName": "",
+                "slug": "gonzalo-rios",
+                "shortName": "G. R\u00edos",
+                "position": "M",
+                "userCount": 25,
+                "id": 1160545
+            },
+            "id": 122258089,
+            "time": 71,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 20,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Nicol\u00e1s Fern\u00e1ndez",
+                "slug": "nicolas-fernandez",
+                "shortName": "N. Fern\u00e1ndez",
+                "position": "D",
+                "userCount": 20,
+                "id": 889500
+            },
+            "playerOut": {
+                "name": "Oliver Rojas",
+                "slug": "oliver-rojas",
+                "shortName": "O. Rojas",
+                "position": "D",
+                "userCount": 13,
+                "id": 906112
+            },
+            "id": 122258075,
+            "time": 63,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 28,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Sim\u00f3n Contreras",
+                "firstName": "",
+                "lastName": "",
+                "slug": "simon-contreras",
+                "shortName": "S. Contreras",
+                "position": "F",
+                "userCount": 59,
+                "id": 1017371
+            },
+            "playerOut": {
+                "name": "Juli\u00e1n Alfaro",
+                "firstName": "",
+                "lastName": "",
+                "slug": "julian-alfaro",
+                "shortName": "J. Alfaro",
+                "position": "F",
+                "userCount": 46,
+                "id": 956838
+            },
+            "injury": true,
+            "id": 122258076,
+            "time": 62,
+            "isHome": false,
+            "incidentClass": "injury",
+            "reversedPeriodTime": 29,
+            "incidentType": "substitution"
+        },
+        {
+            "player": {
+                "name": "Crist\u00f3bal Jorquera",
+                "slug": "cristobal-jorquera",
+                "shortName": "C. Jorquera",
+                "position": "M",
+                "userCount": 30,
+                "id": 18346
+            },
+            "playerName": "Crist\u00f3bal Jorquera",
+            "reason": "Foul",
+            "rescinded": false,
+            "id": 121045691,
+            "time": 48,
+            "isHome": false,
+            "incidentClass": "yellow",
+            "reversedPeriodTime": 43,
+            "incidentType": "card"
+        },
+        {
+            "playerIn": {
+                "name": "Michael Fuentes",
+                "firstName": "",
+                "lastName": "",
+                "slug": "michael-fuentes",
+                "shortName": "M. Fuentes",
+                "position": "F",
+                "userCount": 50,
+                "id": 912067
+            },
+            "playerOut": {
+                "name": "Ignacio Fuenzalida",
+                "firstName": "Ignacio Fuenzalida",
+                "slug": "ignacio-fuenzalida",
+                "shortName": "I. Fuenzalida",
+                "position": "M",
+                "userCount": 10,
+                "id": 1177430
+            },
+            "id": 122258059,
+            "time": 46,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 45,
+            "incidentType": "substitution"
+        },
+        {
+            "playerIn": {
+                "name": "Marco Collao",
+                "slug": "marco-collao",
+                "shortName": "M. Collao",
+                "position": "M",
+                "userCount": 12,
+                "id": 942156
+            },
+            "playerOut": {
+                "name": "Mat\u00edas Sep\u00falveda",
+                "firstName": "",
+                "lastName": "",
+                "slug": "matias-sepulveda",
+                "shortName": "M. Sep\u00falveda",
+                "position": "M",
+                "userCount": 95,
+                "id": 846503
+            },
+            "id": 122258053,
+            "time": 46,
+            "isHome": true,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 45,
+            "incidentType": "substitution"
+        },
+        {
+            "text": "HT",
+            "homeScore": 0,
+            "awayScore": 2,
+            "isLive": false,
+            "time": 45,
+            "addedTime": 999,
+            "reversedPeriodTime": 1,
+            "incidentType": "period"
+        },
+        {
+            "player": {
+                "name": "Nicol\u00e1s Berardo",
+                "slug": "nicolas-berardo",
+                "shortName": "N. Berardo",
+                "position": "D",
+                "userCount": 20,
+                "id": 122648
+            },
+            "playerName": "Nicol\u00e1s Berardo",
+            "reason": "Foul",
+            "rescinded": false,
+            "id": 121045660,
+            "time": 45,
+            "addedTime": 1,
+            "isHome": false,
+            "incidentClass": "yellow",
+            "reversedPeriodTime": 1,
+            "incidentType": "card"
+        },
+        {
+            "length": 4,
+            "time": 45,
+            "addedTime": 0,
+            "reversedPeriodTime": 1,
+            "incidentType": "injuryTime"
+        },
+        {
+            "homeScore": 0,
+            "awayScore": 2,
+            "player": {
+                "name": "Yorman Zapata",
+                "firstName": "",
+                "lastName": "",
+                "slug": "yorman-zapata",
+                "shortName": "Y. Zapata",
+                "position": "F",
+                "userCount": 52,
+                "id": 994724
+            },
+            "assist1": {
+                "name": "Felipe Espinoza",
+                "firstName": "",
+                "lastName": "",
+                "slug": "espinoza-felipe",
+                "shortName": "F. Espinoza",
+                "position": "D",
+                "userCount": 14,
+                "id": 986540
+            },
+            "id": 175416467,
+            "time": 42,
+            "isHome": false,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 4,
+            "incidentType": "goal"
+        },
+        {
+            "homeScore": 0,
+            "awayScore": 1,
+            "player": {
+                "name": "Alfred Canales",
+                "slug": "alfred-canales",
+                "shortName": "A. Canales",
+                "position": "M",
+                "userCount": 79,
+                "id": 1016766
+            },
+            "assist1": {
+                "name": "Crist\u00f3bal Jorquera",
+                "slug": "cristobal-jorquera",
+                "shortName": "C. Jorquera",
+                "position": "M",
+                "userCount": 30,
+                "id": 18346
+            },
+            "id": 175415560,
+            "time": 28,
+            "isHome": false,
+            "incidentClass": "regular",
+            "reversedPeriodTime": 18,
+            "incidentType": "goal"
+        },
+        {
+            "confirmed": false,
+            "player": {
+                "name": "Joaqu\u00edn Larrivey",
+                "slug": "joaquin-larrivey",
+                "shortName": "J. Larrivey",
+                "position": "F",
+                "userCount": 182,
+                "id": 28242
+            },
+            "isHome": false,
+            "id": 22141,
+            "time": 14,
+            "incidentClass": "goalAwarded",
+            "reversedPeriodTime": 32,
+            "incidentType": "varDecision"
+        },
+        {
+            "playerName": "Francisco Arru\u00e9",
+            "reason": "Argument",
+            "manager": {
+                "name": "Francisco Arru\u00e9",
+                "slug": "francisco-arrue",
+                "shortName": "F. Arru\u00e9",
+                "id": 797418
+            },
+            "rescinded": false,
+            "id": 121045709,
+            "time": -5,
+            "isHome": true,
+            "incidentClass": "yellow",
+            "reversedPeriodTime": 6,
+            "incidentType": "card"
+        }
+    ]
+}
