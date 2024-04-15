@@ -15,7 +15,9 @@ authors = [
     "Nicolás Estévez",
     "Rodrigo Toro",
 ]
-
+packages = [
+    { include = "src" }
+]
 
 [tool.poetry.dependencies]
 python = "^3.12"
@@ -26,6 +28,7 @@ selenium = "4.16.0"
 webdriver-manager = "4.0.1"
 sqlalchemy = "^2.0.29"
 pytest = "^8.1.1"
+pandas = "^2.2.2"
 
 [tool.poetry.scripts]
 
