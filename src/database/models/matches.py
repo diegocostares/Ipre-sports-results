@@ -7,7 +7,7 @@ from src.database.database import Base
 class Match(Base):
     __tablename__ = "matches"
     id = Column(Integer, primary_key=True)
-    league_division = Column(String(10), comment="League Division")
+    league_name = Column(String(255), ForeignKey("leagues.league_name"))
     match_date = Column(Date, comment="Match Date (dd/mm/yy)")
     kick_off_time = Column(Time, comment="Time of match kick off")
     home_team_name = Column(String(50), comment="Home Team")
@@ -20,6 +20,8 @@ class Match(Base):
     half_time_result = Column(String(1), comment="Half Time Result (H=Home Win, D=Draw, A=Away Win)")
     referee = Column(String(50), comment="Match Referee")
 
-    # Relación con el modelo de estadísticas
+    # Relationships
+    league = relationship("League", back_populates="matches")
     match_statistics = relationship("MatchStatistics", back_populates="match", uselist=False)
+    bookmakers = relationship("Bookmaker", back_populates="match")
 

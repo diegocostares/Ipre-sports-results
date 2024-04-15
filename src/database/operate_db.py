@@ -34,7 +34,7 @@ if __name__ == "__main__":
     # ejecutar: poetry run python -m database.operate_db
     session = create_session()
     match_data = {
-        "league_division": "Premier League",
+        # "league_division": "Premier League",
         "match_date": "2023-04-14",
         "kick_off_time": "15:00",
         "home_team_name": "Team A",

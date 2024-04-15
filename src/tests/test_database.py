@@ -35,7 +35,6 @@ def test_create_match_table(test_session):
     kick_off_time = datetime.strptime(time_str, "%H:%M").time()
 
     match = Match(
-        league_division="Premier League",
         match_date=match_date,
         kick_off_time=kick_off_time,
         home_team_name="Team A",
