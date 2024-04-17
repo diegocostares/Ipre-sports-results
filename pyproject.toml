@@ -1,6 +1,7 @@
 [tool.poetry]
 name = "Ipre"
 version = "0.1.0"
+readme = "README.md"
 description = "Investigación en pregrado (Ipre) de deep learning aplicado a la predicción de resultados deportivos"
 authors = [
     "Alfredo Enrione",
@@ -14,8 +15,9 @@ authors = [
     "Nicolás Estévez",
     "Rodrigo Toro",
 ]
-readme = "README.md"
-
+packages = [
+    { include = "src" }
+]
 
 [tool.poetry.dependencies]
 python = "^3.12"
@@ -24,6 +26,12 @@ asyncio = "^3.4.3"
 requests = "2.31.0"
 selenium = "4.16.0"
 webdriver-manager = "4.0.1"
+sqlalchemy = "^2.0.29"
+pytest = "^8.1.1"
+pandas = "^2.2.2"
+
+[tool.poetry.scripts]
+
 
 
 [build-system]
@@ -46,6 +54,7 @@ ignore = [
     "F403",
     "F405",
     "I001",
+    "F811",
 ]
 
 exclude = [
