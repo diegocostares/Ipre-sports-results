@@ -29,6 +29,8 @@ webdriver-manager = "4.0.1"
 sqlalchemy = "^2.0.29"
 pytest = "^8.1.1"
 pandas = "^2.2.2"
+scrapy = "^2.11.1"
+scrapy-playwright = "^0.0.34"
 
 [tool.poetry.scripts]
 

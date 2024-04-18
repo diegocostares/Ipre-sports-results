@@ -37,3 +37,17 @@ Y para actualizar las dependencias existentes:
 poetry update
 ```
 
+## Ejecutar scrapers
+
+Para ejecutar los proyectos con scrapy ejecutar:
+
+```shell
+poetry run playwright install chromium
+```
+
+Ejecutar araña y obtener un csv con los datos:
+
+```shell
+poetry run scrapy crawl football_manager -o database/raw/football_manager.csv
+```
+
