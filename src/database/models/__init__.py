@@ -1,8 +1,7 @@
-__all__ = ["Country", "League", "Match", "MatchStatistics", "Bookmaker", "BookmakerOdds"]
+__all__ = ["Country", "League", "Statistics", "Bookmaker", "BookmakerOdds"]
 
+from .bookmaker_odds import BookmakerOdds
+from .bookmakers import Bookmaker
 from .countries import Country
 from .leagues import League
-from .matches import Match
-from .match_statistics import MatchStatistics
-from .bookmakers import Bookmaker
-from .bookmaker_odds import BookmakerOdds
+from .statistics import Statistics

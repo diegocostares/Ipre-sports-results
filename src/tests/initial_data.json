@@ -11,27 +11,11 @@
       "country_name": "England"
     }
   ],
-  "matches": [
-    {
-      "league_name": "Premier League",
-      "match_date": "2023-10-01",
-      "kick_off_time": "15:00",
-      "home_team_name": "Team A",
-      "away_team_name": "Team B",
-      "full_time_home_goals": 2,
-      "full_time_away_goals": 1,
-      "full_time_result": "H",
-      "half_time_home_goals": 1,
-      "half_time_away_goals": 0,
-      "half_time_result": "H",
-      "referee": "John Doe"
-    }
-  ],
   "bookmakers": [
     {
       "id": "bk1",
       "name": "Bookmaker A",
-      "match_id": 1
+      "statistics_id": 1
     }
   ],
   "bookmaker_odds": [
@@ -68,9 +52,20 @@
       "half_time_full_time_team2_team2": 2.2
     }
   ],
-  "match_statistics": [
+  "statistics": [
     {
-      "match_id": 1,
+      "league_name": "Premier League",
+      "date": "2023-10-01",
+      "kick_off_time": "15:00",
+      "home_team_name": "Team A",
+      "away_team_name": "Team B",
+      "full_time_home_goals": 2,
+      "full_time_away_goals": 1,
+      "full_time_result": "H",
+      "half_time_home_goals": 1,
+      "half_time_away_goals": 0,
+      "half_time_result": "H",
+      "referee": "John Doe",
       "crowd_attendance": 30000,
       "home_team_shots": 14,
       "away_team_shots": 5,

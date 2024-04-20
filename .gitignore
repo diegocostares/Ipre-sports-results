@@ -142,3 +142,4 @@ TAGS
 .env.*.local
 .env.local
 
+logs/*
