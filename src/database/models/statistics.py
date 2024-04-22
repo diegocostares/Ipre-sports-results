@@ -4,10 +4,25 @@ from sqlalchemy.orm import relationship
 from src.database.database import Base
 
 
-class MatchStatistics(Base):
-    __tablename__ = "match_statistics"
+class Statistics(Base):
+    __tablename__ = "statistics"
     id = Column(Integer, primary_key=True)
-    match_id = Column(Integer, ForeignKey("matches.id"))
+
+    # Estadisticas que nos pueden servir para hacer match
+    league_name = Column(String(255), ForeignKey("leagues.league_name"))
+    date = Column(Date, comment="Date (dd/mm/yy) in UTC timezone")
+    kick_off_time = Column(Time, comment="Time of kick off")
+    home_team_name = Column(String(50), comment="Home Team")
+    away_team_name = Column(String(50), comment="Away Team")
+    full_time_home_goals = Column(Integer, comment="Full Time Home Team Goals")
+    full_time_away_goals = Column(Integer, comment="Full Time Away Team Goals")
+    full_time_result = Column(String(1), comment="Full Time Result (H=Home Win, D=Draw, A=Away Win)")
+    half_time_home_goals = Column(Integer, comment="Half Time Home Team Goals")
+    half_time_away_goals = Column(Integer, comment="Half Time Away Team Goals")
+    half_time_result = Column(String(1), comment="Half Time Result (H=Home Win, D=Draw, A=Away Win)")
+    referee = Column(String(50), comment="Referee")
+
+    # Estadisticas mas detalladas
     crowd_attendance = Column(Integer, comment="Crowd Attendance")
     home_team_shots = Column(Integer, comment="Home Team Shots")
     away_team_shots = Column(Integer, comment="Away Team Shots")
@@ -94,4 +109,6 @@ class MatchStatistics(Base):
     clearences_home = Column(Integer, comment="Clearances by Home Team")
     clearences_away = Column(Integer, comment="Clearances by Away Team")
 
-    match = relationship("Match", back_populates="match_statistics")
+    # Relationships
+    league = relationship("League", back_populates="statistics")
+    bookmakers = relationship("Bookmaker", back_populates="statistics")

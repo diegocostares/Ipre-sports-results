@@ -4,7 +4,7 @@ import pytest
 from sqlalchemy.orm import Session
 
 from src.database.database import Base, create_session
-from src.database.models import Match
+from src.database.models import Statistics
 
 
 @pytest.fixture(scope="module")
@@ -27,15 +27,15 @@ def test_session(test_engine):
     session.close()
 
 
-def test_create_match_table(test_session):
-    """Test para verificar que la tabla 'matches' se crea con las columnas correctas."""
+def test_create_statistics_table(test_session):
+    """Test para verificar que la tabla 'statistics' se crea con las columnas correctas."""
     date_str = "2023-04-14"
     time_str = "15:00"
-    match_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+    date = datetime.strptime(date_str, "%Y-%m-%d").date()
     kick_off_time = datetime.strptime(time_str, "%H:%M").time()
 
-    match = Match(
-        match_date=match_date,
+    statistics = Statistics(
+        statistics_date=date,
         kick_off_time=kick_off_time,
         home_team_name="Team A",
         away_team_name="Team B",
@@ -43,9 +43,9 @@ def test_create_match_table(test_session):
         full_time_away_goals=1,
         full_time_result="H",
     )
-    test_session.add(match)
+    test_session.add(statistics)
     test_session.commit()
 
-    retrieved_match = test_session.query(Match).one()
-    assert retrieved_match.match_date == match_date
-    assert retrieved_match.kick_off_time == kick_off_time
+    retrieved_statistics = test_session.query(Statistics).one()
+    assert retrieved_statistics.date == date
+    assert retrieved_statistics.kick_off_time == kick_off_time

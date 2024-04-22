@@ -10,4 +10,4 @@ class League(Base):
     country_name = Column(String(255), ForeignKey("countries.country_name"))
 
     country = relationship("Country", back_populates="leagues")
-    matches = relationship("Match", back_populates="league")
+    statistics = relationship("Statistics", back_populates="league")
