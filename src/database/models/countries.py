@@ -1,8 +1,8 @@
 from sqlalchemy import Column, Date, Float, ForeignKey, Integer, String, Time
 from sqlalchemy.orm import declarative_base, relationship
+from . import Base
 
-from src.database.database import Base
-
+# Declaración de Base para los modelos
 
 class Country(Base):
     __tablename__ = "countries"
