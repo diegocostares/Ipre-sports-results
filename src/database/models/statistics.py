@@ -1,7 +1,7 @@
 from sqlalchemy import Column, Date, Float, ForeignKey, Integer, String, Time
-from sqlalchemy.orm import relationship
+from sqlalchemy.orm import declarative_base, relationship
+from . import Base
 
-from src.database.database import Base
 
 
 class Statistics(Base):
@@ -106,9 +106,10 @@ class Statistics(Base):
     tackles_away = Column(Integer, comment="Tackles Made by Away Team")
     interceptions_home = Column(Integer, comment="Interceptions by Home Team")
     interceptions_away = Column(Integer, comment="Interceptions by Away Team")
-    clearences_home = Column(Integer, comment="Clearances by Home Team")
-    clearences_away = Column(Integer, comment="Clearances by Away Team")
+    clearances_home = Column(Integer, comment="Clearances by Home Team")
+    clearances_away = Column(Integer, comment="Clearances by Away Team")
 
     # Relationships
     league = relationship("League", back_populates="statistics")
     bookmakers = relationship("Bookmaker", back_populates="statistics")
+

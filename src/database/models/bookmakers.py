@@ -1,7 +1,6 @@
 from sqlalchemy import Column, Date, Float, ForeignKey, Integer, String, Time
 from sqlalchemy.orm import declarative_base, relationship
-
-from src.database.database import Base
+from . import Base
 
 
 class Bookmaker(Base):
